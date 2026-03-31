@@ -1,10 +1,9 @@
 # Si14_stanards_library
 
 ## Description
-LC-MS/MS spectral library of 14 pure reference standards measured as a mixture., converted from
+LC-MS/MS spectral library of 14 pure reference standards measured as a mixture, converted from
 Bruker `.library` format to NIST MSP format with spectral entropy annotation.
-This library is an ongoing collection and will be updated as new compounds
-are measured.
+
 
 ## Repository Contents
 
