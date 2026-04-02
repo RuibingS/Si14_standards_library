@@ -8,8 +8,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 750.693
-Spectral_entropy: 2.796424
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 124
 115.0541 0.7007
@@ -147,8 +145,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 506.171
-Spectral_entropy: 1.917182
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 50
 77.0388 0.2002
@@ -212,8 +208,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 794.759
-Spectral_entropy: 1.950517
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 50
 162.0151 0.8008
@@ -277,8 +271,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 515.561
-Spectral_entropy: 2.385918
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 84
 89.0387 0.6006
@@ -376,8 +368,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 635.685
-Spectral_entropy: 2.904972
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 80
 117.0573 9.009
@@ -471,8 +461,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 536.371
-Spectral_entropy: 1.508783
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 34
 91.0542 0.6006
@@ -520,8 +508,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 417.541
-Spectral_entropy: 0.595009
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 10
 84.9598 0.2002
@@ -545,8 +531,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 489.72
-Spectral_entropy: 2.465401
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 99
 91.0542 1.2012
@@ -659,8 +643,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 559.138
-Spectral_entropy: 2.050054
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 56
 107.0491 11.8118
@@ -730,8 +712,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 512.035
-Spectral_entropy: 3.110478
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 123
 89.0386 0.2002
@@ -868,8 +848,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 623.672
-Spectral_entropy: 2.50102
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 73
 103.0542 0.7007
@@ -956,8 +934,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 679.889
-Spectral_entropy: 1.623156
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 36
 91.0542 0.3003
@@ -1007,8 +983,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 445.785
-Spectral_entropy: 0.526341
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 6
 261.0981 0.3003
@@ -1028,8 +1002,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 916.383
-Spectral_entropy: 2.870694
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 122
 125.0595 0.4004

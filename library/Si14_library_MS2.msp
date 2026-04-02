@@ -8,8 +8,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 750.693
-Spectral_entropy: 2.796424
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 124
 115.0541 0.7007
@@ -148,8 +146,6 @@ Ionization_method: ESI
 PrecursorMZ: 231.0983
 Collision_energy: 19.9329
 RetentionTime: 751.772
-Spectral_entropy: 1.774712
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 42
 77.0384 0.1001
@@ -205,8 +201,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 506.171
-Spectral_entropy: 1.917182
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 50
 77.0388 0.2002
@@ -271,8 +265,6 @@ Ionization_method: ESI
 PrecursorMZ: 153.0526
 Collision_energy: 17.5916
 RetentionTime: 510.131
-Spectral_entropy: 1.657904
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 30
 61.0076 0.2002
@@ -316,8 +308,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 794.759
-Spectral_entropy: 1.950517
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 50
 162.0151 0.8008
@@ -382,8 +372,6 @@ Ionization_method: ESI
 PrecursorMZ: 285.0717
 Collision_energy: 21.5521
 RetentionTime: 794.178
-Spectral_entropy: 2.029307
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 48
 67.0178 0.3003
@@ -445,8 +433,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 515.561
-Spectral_entropy: 2.385918
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 84
 89.0387 0.6006
@@ -545,8 +531,6 @@ Ionization_method: ESI
 PrecursorMZ: 195.0625
 Collision_energy: 18.8519
 RetentionTime: 518.432
-Spectral_entropy: 2.22083
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 55
 61.0077 0.2002
@@ -615,8 +599,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 635.685
-Spectral_entropy: 2.904972
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 80
 117.0573 9.009
@@ -711,8 +693,6 @@ Ionization_method: ESI
 PrecursorMZ: 157.0737
 Collision_energy: 17.7122
 RetentionTime: 633.59
-Spectral_entropy: 1.889164
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 12
 77.0395 8.8088
@@ -738,8 +718,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 536.371
-Spectral_entropy: 1.508783
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 34
 91.0542 0.6006
@@ -788,8 +766,6 @@ Ionization_method: ESI
 PrecursorMZ: 146.058
 Collision_energy: 17.3817
 RetentionTime: 538.121
-Spectral_entropy: 1.462603
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 19
 62.0153 0.2002
@@ -822,8 +798,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 417.541
-Spectral_entropy: 0.595009
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 10
 84.9598 0.2002
@@ -848,8 +822,6 @@ Ionization_method: ESI
 PrecursorMZ: 216.0847
 Collision_energy: 19.4825
 RetentionTime: 420.082
-Spectral_entropy: 1.355936
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 6
 81.0337 100
@@ -869,8 +841,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 489.72
-Spectral_entropy: 2.465401
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 99
 91.0542 1.2012
@@ -984,8 +954,6 @@ Ionization_method: ESI
 PrecursorMZ: 165.0522
 Collision_energy: 17.9516
 RetentionTime: 487.835
-Spectral_entropy: 1.655045
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 28
 63.0234 0.4004
@@ -1027,8 +995,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 559.138
-Spectral_entropy: 2.050054
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 56
 107.0491 11.8118
@@ -1099,8 +1065,6 @@ Ionization_method: ESI
 PrecursorMZ: 437.1375
 Collision_energy: 26.1141
 RetentionTime: 562.399
-Spectral_entropy: 2.779668
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 53
 69.0331 1.1011
@@ -1167,8 +1131,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 512.035
-Spectral_entropy: 3.110478
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 123
 89.0386 0.2002
@@ -1306,8 +1268,6 @@ Ionization_method: ESI
 PrecursorMZ: 611.1513
 Collision_energy: 31.5568
 RetentionTime: 515.571
-Spectral_entropy: 1.382855
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 16
 71.0493 5.005
@@ -1337,8 +1297,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 623.672
-Spectral_entropy: 2.50102
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 73
 103.0542 0.7007
@@ -1425,8 +1383,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 624.566
-Spectral_entropy: 2.568229
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 83
 72.0811 0.5005
@@ -1524,8 +1480,6 @@ Ionization_method: ESI
 PrecursorMZ: 275.1349
 Collision_energy: 21.254
 RetentionTime: 626.835
-Spectral_entropy: 1.55826
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 27
 72.0812 22.4224
@@ -1566,8 +1520,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 679.889
-Spectral_entropy: 1.623156
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 36
 91.0542 0.3003
@@ -1618,8 +1570,6 @@ Ionization_method: ESI
 PrecursorMZ: 264.1712
 Collision_energy: 20.9251
 RetentionTime: 683.104
-Spectral_entropy: 3.347912
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 105
 65.0389 1.8018
@@ -1738,8 +1688,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 445.785
-Spectral_entropy: 0.526341
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 6
 261.0981 0.3003
@@ -1760,8 +1708,6 @@ Ionization_method: ESI
 PrecursorMZ: 291.1406
 Collision_energy: 21.7342
 RetentionTime: 449.05
-Spectral_entropy: 2.848456
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 146
 68.0373 0.6006
@@ -1921,8 +1867,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 916.383
-Spectral_entropy: 2.870694
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 122
 125.0595 0.4004
@@ -2059,8 +2003,6 @@ Ionization_method: ESI
 PrecursorMZ: 1225.453
 Collision_energy: 44
 RetentionTime: 915.213
-Spectral_entropy: 2.353258
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 25
 73.0647 2.5025
@@ -2100,8 +2042,6 @@ Ionization_method: ESI
 PrecursorMZ: 613.2299
 Collision_energy: 31.6234
 RetentionTime: 915.712
-Spectral_entropy: 2.177589
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 56
 59.0491 0.2002
