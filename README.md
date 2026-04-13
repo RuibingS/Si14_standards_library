@@ -9,10 +9,10 @@ Bruker `.library` format to NIST MSP format with spectral entropy annotation.
 
 | File | Description |
 |------|-------------|
-| `library/Si14_library.msp` | Final NIST MSP library file |
-| `library/Si14_library.library` | Original Bruker source file |
-| `library/Si14_library_MS.library` | Original Bruker source file |
-| `library/Si14_library_MS2.library` | Original Bruker source file |
+| `library/Si14_library.library` | Original Bruker library file |
+| `library/Si14_library.msp` | Final NIST MSP file |
+| `library/Si14_library_MS2.library` | Original Bruker library file |
+| `library/Si14_library_MS2.msp` | Final NIST MSP file |
 
 ## Instrument
 
@@ -37,8 +37,6 @@ Instrument: maXis HD
 Ionization_method: ESI
 Collision_energy: 7
 RetentionTime: 750.693
-Spectral_entropy: 2.796424
-Quality: CLEAN
 Comments: Contributor=CBIO
 Num Peaks: 124
 115.0541 0.7007
@@ -56,20 +54,6 @@ Num Peaks: 124
 ...
 ```
 
-## Spectral Entropy
-
-Spectral entropy is calculated as described in:
-
-> Li, Y. et al. Spectral entropy outperforms MS/MS dot product similarity
-> for small-molecule compound identification. *Nature Methods*, 2021.
-> <https://doi.org/10.1038/s41592-021-01331-z>
-
-Quality flags assigned per entry:
-
-| Flag | Meaning |
-|------|---------|
-| `CLEAN` | Reliable spectrum — entropy above quality threshold |
-| `NOISY` | Low entropy — use with caution |
 
 ## License
 
